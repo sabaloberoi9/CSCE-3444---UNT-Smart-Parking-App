@@ -1,4 +1,4 @@
-# UNT Smart Parking & Navigation — 60% milestone build
+# UNT Smart Parking & Navigation — Test Build
 
 CSCE 3444 team project. This folder is the in-progress (about 60%) version of the app. The finished
 build lives separately in `unt-parking-app/` next to this folder and is not changed by anything here.
