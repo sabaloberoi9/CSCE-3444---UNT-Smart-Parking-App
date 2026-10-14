@@ -1,0 +1,89 @@
+{
+  "u_alex": [
+    {
+      "course": "CSCE 3444",
+      "title": "Software Engineering",
+      "building_id": "dp",
+      "room": "B185",
+      "days": "MW",
+      "start": "11:30",
+      "end": "12:50"
+    },
+    {
+      "course": "MATH 2700",
+      "title": "Linear Algebra",
+      "building_id": "gab",
+      "room": "310",
+      "days": "MWF",
+      "start": "09:00",
+      "end": "09:50"
+    },
+    {
+      "course": "PSCI 1040",
+      "title": "American Government",
+      "building_id": "lang",
+      "room": "117",
+      "days": "MWF",
+      "start": "10:00",
+      "end": "10:50"
+    },
+    {
+      "course": "TECM 2700",
+      "title": "Technical Writing",
+      "building_id": "gab",
+      "room": "105",
+      "days": "TR",
+      "start": "10:00",
+      "end": "11:20"
+    },
+    {
+      "course": "CSCE 3600",
+      "title": "Systems Programming",
+      "building_id": "dp",
+      "room": "B142",
+      "days": "TR",
+      "start": "11:30",
+      "end": "12:50"
+    }
+  ],
+  "u_riley": [
+    {
+      "course": "BIOL 1710",
+      "title": "Biology I",
+      "building_id": "lsc",
+      "room": "A120",
+      "days": "MWF",
+      "start": "08:00",
+      "end": "08:50"
+    },
+    {
+      "course": "CHEM 1410",
+      "title": "General Chemistry",
+      "building_id": "chem",
+      "room": "109",
+      "days": "TR",
+      "start": "09:30",
+      "end": "10:50"
+    }
+  ],
+  "u_sam": [
+    {
+      "course": "BCIS 3610",
+      "title": "Business Information Systems",
+      "building_id": "blb",
+      "room": "055",
+      "days": "MW",
+      "start": "13:00",
+      "end": "14:20"
+    },
+    {
+      "course": "MUCP 1180",
+      "title": "Music Appreciation",
+      "building_id": "music",
+      "room": "232",
+      "days": "MW",
+      "start": "14:30",
+      "end": "15:50"
+    }
+  ]
+}

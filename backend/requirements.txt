@@ -1,0 +1,9 @@
+fastapi>=0.115
+uvicorn[standard]>=0.30
+pydantic>=2.7
+PyJWT>=2.8
+numpy>=1.26
+# next milestone (prediction model): pandas, scikit-learn, joblib
+# testing
+pytest>=8
+httpx>=0.27

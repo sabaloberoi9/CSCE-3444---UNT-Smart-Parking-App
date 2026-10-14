@@ -1,0 +1,12 @@
+{
+  "expo": {
+    "name": "UNT Parking",
+    "slug": "unt-parking",
+    "version": "0.6.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "light",
+    "ios": {
+      "supportsTablet": false
+    }
+  }
+}

@@ -1,0 +1,340 @@
+[
+  {
+    "id": "u_alex",
+    "email": "alex.commuter@demo.local",
+    "name": "Alex Rivera",
+    "role": "student",
+    "permit": "commuter",
+    "home": {
+      "lat": 33.185,
+      "lng": -97.115,
+      "label": "Apartment (South Denton)"
+    },
+    "password": "demo1234"
+  },
+  {
+    "id": "u_riley",
+    "email": "riley.resident@demo.local",
+    "name": "Riley Chen",
+    "role": "student",
+    "permit": "resident",
+    "home": {
+      "lat": 33.2046,
+      "lng": -97.1559,
+      "label": "Mean Green Village"
+    },
+    "password": "demo1234"
+  },
+  {
+    "id": "u_morgan",
+    "email": "morgan.faculty@demo.local",
+    "name": "Dr. Jordan Morgan",
+    "role": "student",
+    "permit": "faculty_staff",
+    "home": {
+      "lat": 33.23,
+      "lng": -97.1,
+      "label": "Home"
+    },
+    "password": "demo1234"
+  },
+  {
+    "id": "u_sam",
+    "email": "sam.garage@demo.local",
+    "name": "Sam Patel",
+    "role": "student",
+    "permit": "garage",
+    "home": {
+      "lat": 33.17,
+      "lng": -97.09,
+      "label": "Home (Corinth)"
+    },
+    "password": "demo1234"
+  },
+  {
+    "id": "u_casey",
+    "email": "casey.visitor@demo.local",
+    "name": "Casey Brooks",
+    "role": "visitor",
+    "permit": "none",
+    "home": {
+      "lat": 33.22,
+      "lng": -97.13,
+      "label": "Hotel"
+    },
+    "password": "demo1234"
+  },
+  {
+    "id": "u_pat",
+    "email": "pat.admin@demo.local",
+    "name": "Pat Admin",
+    "role": "admin",
+    "permit": "faculty_staff",
+    "home": {
+      "lat": 33.215,
+      "lng": -97.12,
+      "label": "Home"
+    },
+    "password": "demo1234"
+  },
+  {
+    "id": "u_sim01",
+    "email": "sim01@demo.local",
+    "name": "Sim Student 1",
+    "role": "student",
+    "permit": "commuter",
+    "home": {
+      "lat": 33.190999999999995,
+      "lng": -97.12,
+      "label": "Home"
+    },
+    "password": "demo1234"
+  },
+  {
+    "id": "u_sim02",
+    "email": "sim02@demo.local",
+    "name": "Sim Student 2",
+    "role": "student",
+    "permit": "commuter",
+    "home": {
+      "lat": 33.192,
+      "lng": -97.12,
+      "label": "Home"
+    },
+    "password": "demo1234"
+  },
+  {
+    "id": "u_sim03",
+    "email": "sim03@demo.local",
+    "name": "Sim Student 3",
+    "role": "student",
+    "permit": "commuter",
+    "home": {
+      "lat": 33.193,
+      "lng": -97.12,
+      "label": "Home"
+    },
+    "password": "demo1234"
+  },
+  {
+    "id": "u_sim04",
+    "email": "sim04@demo.local",
+    "name": "Sim Student 4",
+    "role": "student",
+    "permit": "commuter",
+    "home": {
+      "lat": 33.193999999999996,
+      "lng": -97.12,
+      "label": "Home"
+    },
+    "password": "demo1234"
+  },
+  {
+    "id": "u_sim05",
+    "email": "sim05@demo.local",
+    "name": "Sim Student 5",
+    "role": "student",
+    "permit": "commuter",
+    "home": {
+      "lat": 33.195,
+      "lng": -97.12,
+      "label": "Home"
+    },
+    "password": "demo1234"
+  },
+  {
+    "id": "u_sim06",
+    "email": "sim06@demo.local",
+    "name": "Sim Student 6",
+    "role": "student",
+    "permit": "commuter",
+    "home": {
+      "lat": 33.196,
+      "lng": -97.12,
+      "label": "Home"
+    },
+    "password": "demo1234"
+  },
+  {
+    "id": "u_sim07",
+    "email": "sim07@demo.local",
+    "name": "Sim Student 7",
+    "role": "student",
+    "permit": "commuter",
+    "home": {
+      "lat": 33.196999999999996,
+      "lng": -97.12,
+      "label": "Home"
+    },
+    "password": "demo1234"
+  },
+  {
+    "id": "u_sim08",
+    "email": "sim08@demo.local",
+    "name": "Sim Student 8",
+    "role": "student",
+    "permit": "commuter",
+    "home": {
+      "lat": 33.198,
+      "lng": -97.12,
+      "label": "Home"
+    },
+    "password": "demo1234"
+  },
+  {
+    "id": "u_sim09",
+    "email": "sim09@demo.local",
+    "name": "Sim Student 9",
+    "role": "student",
+    "permit": "commuter",
+    "home": {
+      "lat": 33.199,
+      "lng": -97.12,
+      "label": "Home"
+    },
+    "password": "demo1234"
+  },
+  {
+    "id": "u_sim10",
+    "email": "sim10@demo.local",
+    "name": "Sim Student 10",
+    "role": "student",
+    "permit": "commuter",
+    "home": {
+      "lat": 33.199999999999996,
+      "lng": -97.12,
+      "label": "Home"
+    },
+    "password": "demo1234"
+  },
+  {
+    "id": "u_sim11",
+    "email": "sim11@demo.local",
+    "name": "Sim Student 11",
+    "role": "student",
+    "permit": "commuter",
+    "home": {
+      "lat": 33.201,
+      "lng": -97.12,
+      "label": "Home"
+    },
+    "password": "demo1234"
+  },
+  {
+    "id": "u_sim12",
+    "email": "sim12@demo.local",
+    "name": "Sim Student 12",
+    "role": "student",
+    "permit": "commuter",
+    "home": {
+      "lat": 33.202,
+      "lng": -97.12,
+      "label": "Home"
+    },
+    "password": "demo1234"
+  },
+  {
+    "id": "u_sim13",
+    "email": "sim13@demo.local",
+    "name": "Sim Student 13",
+    "role": "student",
+    "permit": "commuter",
+    "home": {
+      "lat": 33.202999999999996,
+      "lng": -97.12,
+      "label": "Home"
+    },
+    "password": "demo1234"
+  },
+  {
+    "id": "u_sim14",
+    "email": "sim14@demo.local",
+    "name": "Sim Student 14",
+    "role": "student",
+    "permit": "commuter",
+    "home": {
+      "lat": 33.204,
+      "lng": -97.12,
+      "label": "Home"
+    },
+    "password": "demo1234"
+  },
+  {
+    "id": "u_sim15",
+    "email": "sim15@demo.local",
+    "name": "Sim Student 15",
+    "role": "student",
+    "permit": "commuter",
+    "home": {
+      "lat": 33.205,
+      "lng": -97.12,
+      "label": "Home"
+    },
+    "password": "demo1234"
+  },
+  {
+    "id": "u_sim16",
+    "email": "sim16@demo.local",
+    "name": "Sim Student 16",
+    "role": "student",
+    "permit": "commuter",
+    "home": {
+      "lat": 33.205999999999996,
+      "lng": -97.12,
+      "label": "Home"
+    },
+    "password": "demo1234"
+  },
+  {
+    "id": "u_sim17",
+    "email": "sim17@demo.local",
+    "name": "Sim Student 17",
+    "role": "student",
+    "permit": "commuter",
+    "home": {
+      "lat": 33.207,
+      "lng": -97.12,
+      "label": "Home"
+    },
+    "password": "demo1234"
+  },
+  {
+    "id": "u_sim18",
+    "email": "sim18@demo.local",
+    "name": "Sim Student 18",
+    "role": "student",
+    "permit": "commuter",
+    "home": {
+      "lat": 33.208,
+      "lng": -97.12,
+      "label": "Home"
+    },
+    "password": "demo1234"
+  },
+  {
+    "id": "u_sim19",
+    "email": "sim19@demo.local",
+    "name": "Sim Student 19",
+    "role": "student",
+    "permit": "commuter",
+    "home": {
+      "lat": 33.208999999999996,
+      "lng": -97.12,
+      "label": "Home"
+    },
+    "password": "demo1234"
+  },
+  {
+    "id": "u_sim20",
+    "email": "sim20@demo.local",
+    "name": "Sim Student 20",
+    "role": "student",
+    "permit": "commuter",
+    "home": {
+      "lat": 33.21,
+      "lng": -97.12,
+      "label": "Home"
+    },
+    "password": "demo1234"
+  }
+]
